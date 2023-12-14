@@ -9,7 +9,7 @@ public class Main {
 
 
        Motocicletta moto = new Motocicletta("YH678KO", 2014, "Con cavalletto");
-       Motocicletta moto1 = new Motocicletta("IU765TY", 2010, "Senza cavalletto");
+       Motocicletta moto1 = new Motocicletta("IU765TY", 2020, "Senza cavalletto");
        Motocicletta moto2 = new Motocicletta("MH897NB", 2011, "Con cavalletto");
 
         GestoreFlotta gestore = new GestoreFlotta();
